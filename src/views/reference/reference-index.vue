@@ -37,7 +37,7 @@
           <li class="mb-3">
             Australian Curriculum, Assessment and Reporting Authority. (2021).
             Quality Area 1—Educational program and practice. Retrieved from
-            https://www.acecqa.gov.au/nqf/national-quality-standard/quality-area-1-educational-program-and-practice.
+            https://www.acecqa.gov.au/nqf/national-quality-standard/quality-area-1-educational-program-and-practice
           </li>
 
           <li class="mb-3">
@@ -48,12 +48,12 @@
           <li class="mb-3">
             Australian Children's Education and Care Quality Authority. (2018).
             Guide to the National Quality Framework. Retrieved from
-            https://www.acecqa.gov.au/sites/default/files/2018-12/nqf_guide_web_0.pdf.
+            https://www.acecqa.gov.au/sites/default/files/2018-12/nqf_guide_web_0.pdf
           </li>
           <li class="mb-3">
             Department of Education, Skills and Employment. (2019). Educational
             program and practice. Retrieved from
-            https://www.education.gov.au/national-quality-standard#qualityareas.
+            https://www.education.gov.au/national-quality-standard#qualityareas
           </li>
         </ul>
       </div>

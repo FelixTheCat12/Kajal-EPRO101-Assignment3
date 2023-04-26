@@ -15,9 +15,7 @@
 
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
-          <router-link :to="{ name: 'mailstream' }">
-            <h5>Kajal Rai 169300 - Cereal</h5>
-          </router-link>
+            <h5>Kajal Rai IKO3000189 - SIU YAU YUENG </h5>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
