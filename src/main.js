@@ -4,8 +4,6 @@ import { router } from "@/plugins/vue-router";
 import store from "./store";
 import "@/plugins/bootstrap-vue";
 import "@/plugins/font-awesome";
-import "@/plugins/axios";
-import "@/plugins/config";
 
 Vue.config.productionTip = false;
 
