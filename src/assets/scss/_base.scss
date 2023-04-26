@@ -1,0 +1,52 @@
+//Importing Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle&display=swap');
+
+//Global Variables
+$padding-32: 32px !global;
+$page-gap-80: 80px !global;
+$font-stack: 'News Cycle', sans-serif !important;
+
+body {
+  font-family: $font-stack;
+  line-height: 2rem;
+  letter-spacing: 0.2rem;
+}
+
+//Global classes
+a {
+  text-decoration: none !important;
+  color: black !important;
+
+  &:hover{
+    text-decoration: none !important;
+    color: black !important;
+  }
+}
+
+//Removing margin on ALL headings, text etc. Adding fontstack on texts
+p, h1, h2, h3, h4, h5, h6{
+  margin: 0 !important;
+  @media screen and (max-width: 426px){
+    font-size: 0.8em;
+  }
+}
+
+//Temporary
+svg {
+  height: 30px !important;
+}
+
+//Row no gutters
+.row-no-gutters {
+  margin: 0px !important;
+}
+
+.page-space {
+  margin-bottom: 80px;
+}
+
+.pages {
+  min-height: 125vh;
+  display: flex;
+  flex-direction: column;
+}

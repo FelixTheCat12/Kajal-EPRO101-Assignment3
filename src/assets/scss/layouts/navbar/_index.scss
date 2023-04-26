@@ -1,0 +1,14 @@
+@import "@/assets/scss/base";
+.navbar {
+  gap: $padding-32;
+  padding: $padding-32 var(--bs-gutter-x, 0.75rem) !important;
+  align-items: flex-end;
+
+  &-collapse {
+    justify-content: space-between;
+  }
+  &-nav {
+    gap: $padding-32;
+    align-items: center;
+  }
+}

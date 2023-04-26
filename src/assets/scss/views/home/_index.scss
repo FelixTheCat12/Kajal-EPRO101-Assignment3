@@ -1,0 +1,24 @@
+@import "@/assets/scss/base";
+
+.home {
+  &__featured {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: stretch;
+
+    //Temporary
+    img {
+      height: 580px;
+      object-fit: cover;
+    }
+
+    &__staff-picks{
+      margin-bottom: $page-gap-80;
+      .img-grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: $padding-32;
+      }
+    }
+  }
+}
